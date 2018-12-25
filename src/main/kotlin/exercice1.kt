@@ -1,4 +1,3 @@
-import java.io.BufferedReader
 import java.util.stream.Collectors
 
 fun main(args: Array<String>) {
